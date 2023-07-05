@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed --icon "C:/start_control/start_control/control.ico"  ""
